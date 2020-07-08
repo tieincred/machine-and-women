@@ -9,4 +9,5 @@ if, machines build with recurrent neural networks with L.S.T.M. layers could und
 and recreate a piece similar, to what these authors have written, definitely, 
 we are not going to see a particular style of writing, because different authors write differently,
 I prepossessed lines to look similar in text data. Let's find out how things turn to!
+Read this blog post to understand more:
 https://machineandwomen.blogspot.com/2020/07/machines-understanding-of-women-and.html
